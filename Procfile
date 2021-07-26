@@ -1,1 +1,1 @@
-worker: python3 rss.py
+worker: bash start.sh
